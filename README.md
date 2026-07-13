@@ -23,8 +23,11 @@ Every project follows a complete workflow: **raw data → SQL cleaning → Pytho
 ## Tech Stack
 
 **Querying & Analysis** — SQL
+
 **Programming** — Python (Pandas, Jupyter Notebooks)
+
 **Visualization** — Power BI, Excel
+
 **Version Control** — Git & GitHub
 
 ---

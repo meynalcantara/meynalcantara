@@ -1,6 +1,6 @@
 # Hello there, I'm Charmaine
 
-*Operations & Strategy | Data Analyst | SQL • Python • Excel • Power BI | From kitchens to queries**
+**Operations & Strategy | Data Analyst | SQL • Python • Excel • Power BI | From kitchens to queries**
 
 For almost 10 years, I ran kitchens in hotels, restaurants, and airline catering across Berlin and Munich. My job was precision under pressure: tracking inventory, controlling costs, cutting waste. It turns out I was doing data analysis all along — just with a chef's knife instead of a keyboard.
 

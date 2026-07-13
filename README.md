@@ -52,6 +52,9 @@ Looking for opportunities as a **Junior Data Analyst** — ideally in hospitalit
 ##  Let's Connect
 
 📍 Berlin, Germany
+
 📧 meynalcantara@gmail.com
+
 🔗 LinkedIn: *https://www.linkedin.com/in/charmaine-alcantara-parungao/*
+
 🏗️ Notion Portfolio: *https://bit.ly/From-Data-to-Decisions-Analytics-Portfolio*

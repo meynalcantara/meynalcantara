@@ -1,4 +1,4 @@
-# Hello there, I'm Charmaine
+# Nice to meet you, I'm Charmaine!
 
 **Operations & Strategy | Data Analyst | SQL • Python • Excel • Power BI | From kitchens to queries**
 

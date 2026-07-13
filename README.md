@@ -1,4 +1,4 @@
-# Hi, I'm Charmaine 👋
+# Hello there, I'm Charmaine
 
 **Aspiring Data Analyst | SQL • Python • Excel • Power BI | From kitchens to queries**
 
@@ -8,7 +8,7 @@ Now I'm swapping the knife for SQL and making the career official: **Junior Data
 
 ---
 
-## 🔍 What I Work On
+##  What I Work On
 
 I build analytics projects around problems I've lived, not just read about:
 
@@ -30,7 +30,7 @@ Every project follows a complete workflow: **raw data → SQL cleaning → Pytho
 
 ---
 
-## 💡 Why Hire a Former Chef?
+##  Why Hire a Former Chef?
 
 A dinner rush is just a real-time dashboard with higher stakes. From the kitchen, I bring:
 
@@ -41,13 +41,13 @@ A dinner rush is just a real-time dashboard with higher stakes. From the kitchen
 
 ---
 
-## 🎯 Career Focus
+##  Career Focus
 
 Looking for opportunities as a **Junior Data Analyst** — ideally in hospitality, food & beverage, retail, or operations, where my domain knowledge gives the data extra flavor.
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 📍 Berlin, Germany
 📧 meynalcantara@gmail.com

@@ -4,8 +4,7 @@
 
 For almost 10 years, I ran kitchens in hotels, restaurants, and airline catering across Berlin and Munich. My job was precision under pressure: tracking inventory, controlling costs, cutting waste. It turns out I was doing data analysis all along — just with a chef's knife instead of a keyboard.
 
-Now I'm swapping the knife for SQL and making the career official: **Junior Data Analyst in the making**.
-
+Now I'm swapping the knife for SQL and making the career official: **Data Analyst in the making**.
 ---
 
 ##  What I Work On
@@ -21,7 +20,7 @@ Every project follows a complete workflow: **raw data → SQL cleaning → Pytho
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Querying & Analysis** — SQL
 **Programming** — Python (Pandas, Jupyter Notebooks)
@@ -51,4 +50,5 @@ Looking for opportunities as a **Junior Data Analyst** — ideally in hospitalit
 
 📍 Berlin, Germany
 📧 meynalcantara@gmail.com
-🔗 LinkedIn: *[add your LinkedIn URL here]*
+🔗 LinkedIn: *https://www.linkedin.com/in/charmaine-alcantara-parungao/*
+🏗️ Notion Portfolio: *https://bit.ly/From-Data-to-Decisions-Analytics-Portfolio*

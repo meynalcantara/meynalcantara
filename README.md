@@ -22,11 +22,11 @@ Every project follows a complete workflow: **raw data → SQL cleaning → Pytho
 
 ## Tech Stack
 
-**Querying & Analysis** — SQL
+**Querying & Analysis** — SQL, MS Excel, Google Sheets
 
-**Programming** — Python (Pandas, Jupyter Notebooks)
+**Programming** — Python (Pandas, NumPy, Jupyter Notebooks), R
 
-**Visualization** — Power BI, Excel
+**Visualization** — Power BI, MS Excel, Google Sheets, Data Studio (formerly Looker), Tableau
 
 **Version Control** — Git & GitHub
 
